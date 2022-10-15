@@ -1,0 +1,25 @@
+{
+  "name": "adhils-ecommerce_world",
+  "version": "1.0.0",
+  "description": "e-commerce platform for the local need- sample demo project",
+  "main": "app_firbase.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adhil-bit/adhils-ecommerce_world.git"
+  },
+  "keywords": [
+    "firebase"
+  ],
+  "author": "adhil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adhil-bit/adhils-ecommerce_world/issues"
+  },
+  "homepage": "https://github.com/adhil-bit/adhils-ecommerce_world#readme",
+  "dependencies": {
+    "firebase": "^8.10.1"
+  }
+}
